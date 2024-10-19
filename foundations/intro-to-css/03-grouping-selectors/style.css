@@ -1,0 +1,11 @@
+.dumb{
+background-color: black;
+color: white;
+}
+.retard{
+    background-color: yellow;
+}
+.dumb.retard{
+    font-family:'Times New Roman', Helvetica, sans-serif ;
+    font-size: 28px;
+}
